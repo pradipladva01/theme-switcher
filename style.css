@@ -6,11 +6,6 @@
   box-sizing: border-box;
   font-family: 'Sora', sans-serif;
 }
-:root {
-    --dark: #292c35; 
-    --light: #f1f1f1;
-    --label: #111; 
-}
 
 body {
     line-height: 1.5;
