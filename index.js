@@ -1,3 +1,5 @@
+feather.replace();
+
 var html = document.getElementsByTagName('html');
 var radios = document.getElementsByName('themes'); 
 
